@@ -9,13 +9,13 @@ html {
   --text-color: #4c0c1f;
 }
 
+a {
+  text-decoration: none;
+}
+
 body.dark {
   --bg-color: #4c0c1f;
   --text-color: white;
-}
-
-a {
-  text-decoration: none;
 }
 
 body {
